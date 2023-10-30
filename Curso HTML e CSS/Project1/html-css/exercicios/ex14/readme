@@ -1,0 +1,7 @@
+Estilo Locais / Internos
+
+Basicamente, em vez de se alterar linha a linha, dá para fazer um "style" dentro do "head" e fazer o "código CSS" lá.
+
+Isto tem desvantagens:
+- style vai ter mais linhas/espaço do que o body/próprio código HTML;
+- se existir 30 páginas, e nas 30 quiser extamente o mesmo estilo, vou ter de escrever 30 vezes o mesmo "style" em cada ficheiro .HTML
