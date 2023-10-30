@@ -1,0 +1,4 @@
+Estilos Externos
+
+Permite criar um ficheiro ou vários ficheiros,  com diferentes estilos (chamado CSS)
+Também dá para misturar com alteração de estilos internos no próprio "body" do HTML.
