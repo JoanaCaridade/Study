@@ -1,0 +1,8 @@
+Estilos CSS Inline
+Alterações como:
+-letra
+-cor
+-tamanho
+-cor de fundo
+
+podem ser alterados no próprio HTML, mas torna o código sujo e demorado, pois é um processo que engloba ir "linha a linha".
