@@ -1,0 +1,14 @@
+Objetivo: Criar um site com 4 vídeos para o visitante assistir. 
+
+-> A página principal será com 4 capas dos vídeos centralizadas, título branco e fundo preto.
+
+-> Ao clicar em qualquer umas das thumbs, abrirá uma página especial para cada um.
+Esse vídeo não estará hospedado na pasta, tem de ser do próprio Youtube.
+
+Abaixo do vídeo, temos 2 links:
+
+-> 1º é o "Veja o curso completo". Ao clicar nele, o visitante será desviado automáticamente para a playlist oficial do Youtube. (preferencialmente, abrir um novo separador)
+
+-> 2º é um botão de voltar. Na verdade, uma imagem que possui um link para a página anterior (principal/main).
+
+Aqui, também segue a mesma formatação com fundo preto e texto em branco.
