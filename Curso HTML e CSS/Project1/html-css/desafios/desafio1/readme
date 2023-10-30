@@ -1,0 +1,14 @@
+Deve criar um código HTML que use apenas parágrafos e quebra de linhas e que gere o seguinte resultado visual:
+DESAFIO DAS MENSAGENS
+
+*Um
+**Dois
+***Três
+****Quatro
+
+****Quatro
+***Três
+**Dois
+*Um
+
+IMPORTANTE: Note que a primeira contagem está separada da segunda, isso é uma característica que vimos ao decorrer do material de exercícios. Nada de usar váriops <br> na sequência.
