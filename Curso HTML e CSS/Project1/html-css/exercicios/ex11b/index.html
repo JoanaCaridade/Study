@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="pt-pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Adicionando audios</title>
+</head>
+<body>
+    <h1>Reproduzir áudio</h1>
+    <p>Vamos aprender a reproduzir áudios em HTML5</p>
+    <audio src="midia/guanacast-33.mp3" controls autoplay></audio>
+    <!-- Compatível com MP3, WAV, OGG -->
+    <!-- Esta forma pode nao ser compatível com todos os navegadores, a seguir temos outra forma compatível com todos os navegadores-->
+    <audio preload="metadata" autoplay controls loop>
+        <!-- loop serve para voltar a reproduzir ao chegar ao fim -->
+        <source src="midia/happy-mistake.mp3" type="audio/mpeg">
+        <source src="midia/happy-mistake.ogg" type="audio.ogg">
+        <source src="midia/happy-mistake.wav" type="audio.wav">
+        <!--Tentar evitar usar WAV pois são ficheiros muito pesados-->
+        <p>Infelizmente o seu navegador não consegue reproduzir o aúdio.</p>
+        <a href="midia/happy-mistake.mp3">Clique aqui para baixar o ficheiro MP3</a>
+    </audio>
+</body>
+</html>
