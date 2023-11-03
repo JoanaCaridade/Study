@@ -1,0 +1,15 @@
+Tamanho de fonte e as suas medidas
+
+Medidas Absolutas:
+cm, mm, in (polegada), px, pt (ponto), pc (paica)
+                        |
+                        v
+                    Medida recomendada
+
+Medidas Relativas:
+em, ex, rem, vw, vh, %
+|
+v
+medida recomendada
+
+16px (geralmente) = 1em
