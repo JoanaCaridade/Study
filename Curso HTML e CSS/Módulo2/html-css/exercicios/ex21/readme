@@ -1,0 +1,19 @@
+Utilizando o id com CSS.
+
+HTML        CSS
+id      =   #
+class   =   .
+
+Exemplo HTML
+
+<h1 id=principal>Criando Sites com HTML e CSS</h1>
+
+Em CSS para mexer apenas naquele H1 em específico é:
+
+h1#principal {
+    text-align: center;
+    background-color: rgb(4, 109, 0);
+    color: white;
+}
+
+Vai adquirir as mesmas características gerais do H1, mais as que foram acrescentadas em #principal
