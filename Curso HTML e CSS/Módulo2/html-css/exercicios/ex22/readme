@@ -1,0 +1,4 @@
+Utilizando class em CSS:
+
+- Não usar o nome do mesmo ID dentro do mesmo documento
+- Para isso, usa-se class em vez de ID, para "aproveitar" a mesma formatação para outros; dar o nome da class pela funcionalidade e não pela forma
