@@ -1,0 +1,43 @@
+Tipos de Caixas (BOX):
+    -box-level
+    -inline-level
+
+Quais se usam dentro do Box-level:
+    <div>
+    <h1>-<h6>
+    <p>
+    <main>
+    <header>
+    <nav>
+    <article>
+    <aside>
+    <footer>
+    <form>
+    <video>
+
+Quais se usam dentro do Inline-level:
+    <span>
+    <a>
+    <code>
+    <small>
+    <strong>
+    <em>
+    <sup> e <sub>
+    <label>
+    <button>
+    <input>
+    <select>
+
+Tipos de border-style:
+                      solid -------
+                      dashed - - - -
+                      dotter (pontinhos)
+                      double (linha dupla)
+                      groove (linha tipo 3D)
+
+Padding: funciona no sentido dos ponteiros do relógio (cima, direita, baixo, esquerda)
+
+    padding-top
+    padding-right
+    padding-bottom
+    padding-left
