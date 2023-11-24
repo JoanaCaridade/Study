@@ -1,22 +1,22 @@
-Tipos de margin:
+Tipos de margin
     margin-tipos
     margin-right
     margin-bottom
     margin-left
-(Funciona no sentido do relógio)
+Funciona no sentido do relógio
 
-Tipos de Outline:
+Tipos de Outline
     outline-width
     outline-style
     outline-color
 
 
-Expressões Simplificadas:
+Expressões Simplificadas
 
-    border: (width) (style) (color)
+    border:width style color
 
-    padding: (top/cima) (right/direita) (bottom/baixo) (left/esquerda)
-    
-    margin: (top) (right) (bottom) (left)
+    padding:top/cima right/direita bottom/baixo left/esquerda
 
-    outline: (width) (style) (color)
+    margin:top right bottom left
+
+    outline:width style color
