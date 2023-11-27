@@ -1,0 +1,15 @@
+Grouping Tags:
+
+Header: áreas relativas a cabeçalhos. Pode ser o cabeçalho principal de um site ou até mesmo o cabeçalho de uma secção ou artigo. Normalmente inclui h1-h6 e subtítulos. Podem conter menus de navegação.
+
+Nav: define uma área que possui os links de navagação pela estrutura de páginas que vão compor o website. Nav pode estar dentro de um header.
+
+Main: usado para limitar conteúdo princiapl. Normalmente concentra section, article, aside
+
+Section: cria secções. Pode conter conteúdos diretamente no seu corpo ou dividir em article com conteúdo específicos.
+
+Article: elemento que vai conter um conteúdo que pode ser lido independente e dizem respeito a um mesmo assunto.
+
+Aside: delimita um conteúdo periférico e complementa ao conteúdo principal de um artigo ou secção.
+
+Footer: cria um rodapé, secção ou artigo.
